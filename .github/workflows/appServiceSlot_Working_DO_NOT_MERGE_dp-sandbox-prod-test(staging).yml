@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'dp-sandbox-prod-test(staging)'
         slot-name: 'staging'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6f319b3d2e864a639d418c2ed94846a6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7f4ae61f802449709a5d762a450e6e4f }}
         package: .
